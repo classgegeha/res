@@ -1,0 +1,55 @@
+/* Tamaños y pesos específicos */
+h1 {
+    font-size: 61px;
+    font-weight: 300; /* Light */
+}
+
+h2 {
+    font-size: 49px;
+    font-weight: 400; /* Regular */
+}
+
+h3 {
+    font-size: 39px;
+    font-weight: 400; /* Regular */
+}
+
+h4 {
+    font-size: 31px;
+    font-weight: 500; /* Medium */
+}
+
+h5 {
+    font-size: 25px;
+    font-weight: 600; /* Semi-bold */
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: 700; /* Bold */
+}
+
+/* Tipografía de textos */
+.text-xl {
+    font-size: 16px;
+    font-weight: 300; /* Light */
+    line-height: 1.2; /* 120% */
+}
+
+.text-xm {
+    font-size: 13px;
+    font-weight: 400; /* Regular */
+    line-height: 1.2;
+}
+
+.text-xs {
+    font-size: 10px;
+    font-weight: 400; /* Regular */
+    line-height: 1.2;
+}
+
+.text-xss {
+    font-size: 8px;
+    font-weight: 400; /* Regular */
+    line-height: 1.2;
+}
