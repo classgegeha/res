@@ -18,18 +18,18 @@
     --color-gris-darkest: #515151;
 
     /* Color 3: Rosado */
-    --color-red-light: #FDF8F8;
-    --color-red-light: #F8E9E9;
-    --color-red: #E8B8B8; /* Normal */
-    --color-red-dark: #AE8A8A;
-    --color-red-darker: #685353;
-    --color-red-darkest: #514040;
+    --color-rosa-light: #FDF8F8;
+    --color-rosa-lightactive: #F8E9E9;
+    --color-rosa: #E8B8B8; /* Normal */
+    --color-rosa-dark: #AE8A8A;
+    --color-rosa-darker: #685353;
+    --color-rosa-darkest: #514040;
 
     /* Color 4: Amarillo */
-    --color-gray-light: #FFFAE6;
-    --color-gray-light: #FEF0B1;
-    --color-gray: #FCCE02; /* Normal */
-    --color-gray-dark: #BD9B02;
-    --color-gray-darker: #715D01;
-    --color-gray-darkest: #584801;
+    --color-amarillo-light: #FFFAE6;
+    --color-amarillo-lightactive: #FEF0B1;
+    --color-amarillo: #FCCE02; /* Normal */
+    --color-amarillo-dark: #BD9B02;
+    --color-amarillo-darker: #715D01;
+    --color-amarillo-darkest: #584801;
 }
