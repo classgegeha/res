@@ -1,0 +1,8 @@
+body {
+    margin: 24px; /* Aplica 24px de margen en todos los lados */
+    display: flex; /* Usa flexbox para centrar el contenido */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    min-height: calc(100vh - 48px); /* Garantiza que ocupe al menos toda la altura de la ventana menos el margen vertical */
+    box-sizing: border-box; /* Incluye el margen y padding en el tamaño del contenido */
+  }
